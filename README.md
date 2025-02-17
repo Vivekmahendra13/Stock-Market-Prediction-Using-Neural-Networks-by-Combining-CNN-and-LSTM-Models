@@ -6,8 +6,7 @@
 3. Organising the Candlestick image patterns to a folder.
 4. Visualization of the Stock Market analysis by their trends or Movements ( Up & Down).
 5. Predicting the Future stock price using historical data using LSTM.
-6. Predicting the future stock price using CNN - LSTM Hybrid model for Sequential and Candlestick image patterns as, Candlestick patterns describes the movements and trends of Stock 
-   prices will more contribute in the Predictions.
+6. Predicting the future stock price using CNN - LSTM Hybrid model for Sequential data & Candlestick image patterns as, CNN is applied on Candlestick image patterns to analyze the trends and to predict the price. 
 7. Saving the Hybrid model
 8. Hybrid model Contributes in Accurate Stock Price Predictions.
 9. Comparing the LSTM and Hybrid CNN - LSTM Model Stock Price Prediction using Mean absolute Percentage Error (MAPE).
